@@ -2,12 +2,12 @@
 ![speech-api-lead](https://user-images.githubusercontent.com/37307562/78901097-159fe800-7a8d-11ea-948a-0ce9ff01a5b6.png)<br>
 >A tiny lib for open native platform voice regonizer in react native.
 ## Motivation
-<a href="https://github.com/react-native-community">`react-native-community`<a/> provides an awesome <a href="https://github.com/react-native-community/voice">@react-native-community/voice</a> for reconiting voice but sometimes you don't want to create your own voice reconizer also you want only recogniting with native platform tool.
+<a href="https://github.com/react-native-community">`react-native-community`<a/> provides an awesome <a href="https://github.com/react-native-community/voice">@react-native-community/voice</a> for reconiting voice but sometimes you don't want to create your own voice reconizer also you want a clean way and recogniting with native platform tools.
 ## Feautures
-  - tiny and clean way :rocket:.
-  - Native Implementation :chart_with_upwards_trend: .
-  - Easy To Use :heart_eyes: ( only have one method ) .
-  - No `ios` Support :hankey: ( may be add in future ) .
+  - Tiny And Clean Way. :rocket:
+  - Native Implementation. :chart_with_upwards_trend: 
+  - Easy To Use. :heart_eyes: ( only have one method ) 
+  - No `ios` Support. :hankey: ( may be add in future )
 ## Result
 <a href="https://gifyu.com/image/lslg"><img src="https://s6.gifyu.com/images/3w0l7v.gif" alt="3w0l7v.gif" border="0" /></a>
 ## Installation
