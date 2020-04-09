@@ -53,7 +53,7 @@ public class VoiceRecognizerModule extends ReactContextBaseJavaModule implements
     }
 
     @ReactMethod
-    public void show(final String language, final String prompt, final Promise promise) {
+    public void requestVoice(final String language, final String prompt, final Promise promise) {
         mPickerPromise = promise;
         try {
             Activity currentActivity = getCurrentActivity();

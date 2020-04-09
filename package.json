@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "description": "A tiny lib for open native platform voice regonizer in react native.",
   "main": "index.ts",
+  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
