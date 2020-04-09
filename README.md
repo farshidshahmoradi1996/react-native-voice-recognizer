@@ -4,6 +4,7 @@
 ## Motivation
 <a href="https://github.com/react-native-community">`react-native-community`<a/> provides an awesome <a href="https://github.com/react-native-community/voice">@react-native-community/voice</a> for reconiting voice but sometimes you don't want to create your own voice reconizer also you want only recogniting with native platform tool.
 ## Feautures
+  - tiny and clean way :rocket:.
   - Native Implementation :chart_with_upwards_trend: .
   - Easy To Use :heart_eyes: ( only have one method ) .
   - No `ios` Support :hankey: ( may be add in future ) .
@@ -48,7 +49,7 @@ then use with <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/G
 And Enjoy. :heart_eyes:<br><br>
 Or use with <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await">async/await ES2017</a> feature :
 ```js
-  const startListeinig = async () => {
+  const startListennig = async () => {
     //settings are requires
     const locale = 'en-US'; //or for example :'fa-IR'
     const promptLabel = 'Say Something...'; //or anything you want
