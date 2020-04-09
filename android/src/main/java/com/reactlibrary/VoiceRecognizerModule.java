@@ -63,7 +63,7 @@ public class VoiceRecognizerModule extends ReactContextBaseJavaModule implements
             intent.putExtra(RecognizerIntent.EXTRA_LANGUAGE_PREFERENCE, language);
             intent.putExtra(RecognizerIntent.EXTRA_ONLY_RETURN_LANGUAGE_PREFERENCE, language);
             intent.putExtra(RecognizerIntent.EXTRA_PROMPT, prompt);
-            currentActivity.startActivityForResult(intent, 100);
+            currentActivity.startActivityForResult(intent, REQUEST_VOICE_RECOGNIZER_CODE);
 
         } catch (Exception e) {
             mPickerPromise.reject("ERROR", e);
