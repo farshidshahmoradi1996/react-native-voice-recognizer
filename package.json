@@ -1,7 +1,7 @@
 {
   "name": "react-native-voice-recognizer",
   "title": "React Native Voice Recognizer",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A tiny lib for open native platform voice regonizer in react native.",
   "main": "index.ts",
   "types": "index.d.ts",
@@ -10,8 +10,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-voice-recognizer.git",
-    "baseUrl": "https://github.com/github_account/react-native-voice-recognizer"
+    "url": "git+https://github.com/farshidshahmoradi1996/react-native-voice-recognizer.git",
+    "baseUrl": "https://github.com/farshidshahmoradi1996/react-native-voice-recognizer"
   },
   "keywords": [
     "react-native"
