@@ -2,8 +2,8 @@
   "name": "react-native-voice-recognizer",
   "title": "React Native Voice Recognizer",
   "version": "1.0.0",
-  "description": "TODO",
-  "main": "index.js",
+  "description": "A tiny lib for open native platform voice regonizer in react native.",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,8 +16,8 @@
     "react-native"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "Farshid Shahmoradi",
+    "email": "farshidshahmoradi1996@gmail.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
